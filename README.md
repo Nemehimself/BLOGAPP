@@ -28,3 +28,5 @@ include the full address in your repository READme
 
 
 repo: https://github.com/Nemehimself/BLOGAPP.git
+url: http://localhost:3000
+run: yarn dev
