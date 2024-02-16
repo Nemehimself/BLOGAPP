@@ -26,3 +26,5 @@ To view all blog posts, click the "Posts" tab. You can also view blog posts in a
 - Deploy your web application on a FREE cloud platform (Vercel, etc) and
 include the full address in your repository READme
 
+
+repo: https://github.com/Nemehimself/BLOGAPP.git
